@@ -1,3 +1,3 @@
 # SwedebeatAWS
 
-A description of this package.
+SPM for distribution of the AWS XCFrameworks
