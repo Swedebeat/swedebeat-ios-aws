@@ -1,2 +1,3 @@
-# swedebeat-ios-aws
-SPM for distribution of the AWS XCFrameworks
+# SwedebeatAWS
+
+A description of this package.
