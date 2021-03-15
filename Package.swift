@@ -7,7 +7,7 @@ let package = Package(
     products: [
         .library(
             name: "SwedebeatAWS",
-            targets: ["SwedebeatAWS"]
+            targets: ["SwedebeatAWS", "AWSCore", "AWSS3"]
         )
     ],
     targets: [
